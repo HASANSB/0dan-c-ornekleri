@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1738843054 source:c:\yazilim\github c projelerim\0_dan-c_3 struct enum ve union örnekleri\0_dan-c_3 struct enum ve union örnekleri\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
